@@ -9,10 +9,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/fontawesome/sitemap.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/material/arrow-split-vertical.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=82&color=5818b9">
-  <img align="center" alt="Felipe-Redes" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-Ladder" height="30" width="40" src="https://icongr.am/material/arrow-split-vertical.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-CSharp" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-HTML5" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=82&color=5818b9">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=82&color=5818b9">
 </div>
